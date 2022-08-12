@@ -1,8 +1,8 @@
-# Surfs_Up!
+# Surfs Up!
 
 ## Purpose 
 
-The purpose of this activity is to examine temperature trends, specifically in the months of June and December to determine product vaiability for Surfs Up, an ince cream parlor in Oahu, Hawaii. Technically, this activity is to verse the user in advanced data storage and retrieval using Flask, SQL Alchemy, and Jupyter Notebook. 
+  The purpose of this activity is to examine temperature trends, specifically in the months of June and December to determine product vaiability for Surfs Up, an ince cream parlor in Oahu, Hawaii. Technically, this activity is to verse the user in advanced data storage and retrieval using Flask, SQL Alchemy, and Jupyter Notebook. 
 
 ## Results
 
@@ -17,4 +17,4 @@ The purpose of this activity is to examine temperature trends, specifically in t
 - Minimum temperature shows the greatest difference (56 in December vs. 64 in June). December temperature may prove negatively significant for ice cream sales. However, that does not necessarily mean it is impossible - possible opportunity to spin cold Hawaii ice cream? 
 
 ## Summary
-Temperature similarities and differences (of course, ice cream sales in December in most tropical climates may not sell well - more data needed to solidiy that assertion) between June and December may not be enough to make more major differentiating decisions Surfs Up. What do competitors do during these months, especially December. One may need to query competitor data changes during temperature fluctuations. One may also need to query total consumer ice cream consumption differences between these months. Other Hawaii-centered climate phenemonenoms may also need to be observed such as precipitation levels. Could we establish a relationship with local weather stations to gather this data? If consumer data gathering is possible, we may be able to find commonalities between weather and consumerr behavior in Oahu, HI.
+  Temperature similarities and differences (of course, ice cream sales in December in most tropical climates may not sell well - more data needed to solidiy that assertion) between June and December may not be enough to make more major differentiating decisions Surfs Up. What do competitors do during these months, especially December. One may need to query competitor data changes during temperature fluctuations. One may also need to query total consumer ice cream consumption differences between these months. Other Hawaii-centered climate phenemonenoms may also need to be observed such as precipitation levels. Could we establish a relationship with local weather stations to gather this data? If consumer data gathering is possible, we may be able to find commonalities between weather and consumerr behavior in Oahu, HI.
