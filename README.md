@@ -2,7 +2,7 @@
 
 ## Purpose 
 
-  The purpose of this activity is to examine temperature trends, specifically in the months of June and December to determine product vaiability for Surfs Up, an ince cream parlor in Oahu, Hawaii. Technically, this activity is to verse the user in advanced data storage and retrieval using Flask, SQL Alchemy, and Jupyter Notebook. 
+  The purpose of this activity is to examine temperature trends, specifically in the months of June and December to determine product vaiability for Surfs Up, an ice cream parlor in Oahu, Hawaii. This activity is to verse the user in advanced data storage and retrieval using Flask, SQL Alchemy, and Jupyter Notebook. 
 
 ## Results
 
